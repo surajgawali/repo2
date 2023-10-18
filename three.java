@@ -1,0 +1,4 @@
+main static ()
+{
+one
+}
